@@ -1,5 +1,5 @@
 def containerName="docker-pipeline"
-def dockerHubUser="anujsharma1990"
+def dockerHubUser="sujataptail12"
 def httpPort="8090"
 
 node {
